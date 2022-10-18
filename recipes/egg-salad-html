@@ -7,9 +7,9 @@
     <title>Egg salad</title>
 </head>
 <body>
-    <img src="boiled-egg.jpg" alt="boiled egg cut in half" width="500px">
+    <img src="egg-salad.jpg" alt="boiled egg cut in half" width="500px">
     <h3>Egg salad</h3>
-    <p>The all time classic egg-dish, that is faily tasty on a slice of bread and very simple to make.</p>
+    <p>The all time classic egg dish, that is faily tasty on a slice of bread and very simple to make.</p>
     <h5>Ingredients:</h5>
     <ul>
         <li>Eggs</li>
